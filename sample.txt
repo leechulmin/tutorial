@@ -1,0 +1,4 @@
+08072012-0654---------------------------------------
+This is a sample file for git tutorial. The tutorial instruction was provided by the following link.
+https://backlogtool.com/git-guide/kr/intro/intro2_4.html
+----------------------------------------------------
